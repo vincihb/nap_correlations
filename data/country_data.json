@@ -1,0 +1,877 @@
+{
+    "Eswatini": {
+        "Region": "AFR",
+        "Income": "LIC",
+        "Environment": 17.0,
+        "Clean water and sanitation": 15.0,
+        "Environmental contamination": 11.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 0.0,
+            "Percentage of at least basic drinking water service": 70.75,
+            "Percentage of basic water service": 0.0,
+            "Percentage of limited water service": 9.51,
+            "Percentage of unimproved water service": 9.84,
+            "Percentage of surface water usage": 9.9
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 0.0,
+            "Percentage of at least basic sanitation service": 64.29,
+            "Percentage of basic sanitation service": 0.0,
+            "Percentage of limited sanitation service": 21.63,
+            "Percentage of unimproved sanitation service": 10.26,
+            "Percentage of open defecation": 3.81
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": 17.91
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": 87.5,
+            "Percentage of rivers with good ambient water quality": 87.5,
+            "Percentage of open water bodies with good ambient water quality": -1.0,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 56.17
+        }
+    },
+    "Ghana": {
+        "Region": "AFR",
+        "Income": "LIC",
+        "Environment": 13.0,
+        "Clean water and sanitation": 3.0,
+        "Environmental contamination": 17.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 41.41,
+            "Percentage of at least basic drinking water service": 0.0,
+            "Percentage of basic water service": 44.38,
+            "Percentage of limited water service": 6.59,
+            "Percentage of unimproved water service": 2.81,
+            "Percentage of surface water usage": 4.81
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 13.32,
+            "Percentage of at least basic sanitation service": 0.0,
+            "Percentage of basic sanitation service": 10.38,
+            "Percentage of limited sanitation service": 47.44,
+            "Percentage of unimproved sanitation service": 11.08,
+            "Percentage of open defecation": 17.78
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": 12.13
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": -1.0,
+            "Percentage of rivers with good ambient water quality": -1.0,
+            "Percentage of open water bodies with good ambient water quality": -1.0,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 6064.95
+        }
+    },
+    "Kenya": {
+        "Region": "AFR",
+        "Income": "LIC",
+        "Environment": 27.0,
+        "Clean water and sanitation": 6.0,
+        "Environmental contamination": 6.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 0.0,
+            "Percentage of at least basic drinking water service": 61.63,
+            "Percentage of basic water service": 0.0,
+            "Percentage of limited water service": 9.54,
+            "Percentage of unimproved water service": 9.78,
+            "Percentage of surface water usage": 19.05
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 0.0,
+            "Percentage of at least basic sanitation service": 32.7,
+            "Percentage of basic sanitation service": 0.0,
+            "Percentage of limited sanitation service": 25.47,
+            "Percentage of unimproved sanitation service": 33.32,
+            "Percentage of open defecation": 8.51
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": -1.0
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": 86.5,
+            "Percentage of rivers with good ambient water quality": 90.4,
+            "Percentage of open water bodies with good ambient water quality": 33.3,
+            "Percentage of groundwater with good ambient water quality": 90.3
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 11584.41
+        }
+    },
+    "Liberia": {
+        "Region": "AFR",
+        "Income": "LIC",
+        "Environment": 18.0,
+        "Clean water and sanitation": 15.0,
+        "Environmental contamination": 14.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 0.0,
+            "Percentage of at least basic drinking water service": 75.26,
+            "Percentage of basic water service": 0.0,
+            "Percentage of limited water service": 8.7,
+            "Percentage of unimproved water service": 3.49,
+            "Percentage of surface water usage": 12.55
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 0.0,
+            "Percentage of at least basic sanitation service": 18.16,
+            "Percentage of basic sanitation service": 0.0,
+            "Percentage of limited sanitation service": 29.33,
+            "Percentage of unimproved sanitation service": 14.82,
+            "Percentage of open defecation": 37.68
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": -1.0
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": 50.0,
+            "Percentage of rivers with good ambient water quality": 33.3,
+            "Percentage of open water bodies with good ambient water quality": 100.0,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 197.99
+        }
+    },
+    "Nigeria": {
+        "Region": "AFR",
+        "Income": "LIC",
+        "Environment": 14.0,
+        "Clean water and sanitation": 11.0,
+        "Environmental contamination": 21.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 21.67,
+            "Percentage of at least basic drinking water service": 0.0,
+            "Percentage of basic water service": 55.94,
+            "Percentage of limited water service": 4.98,
+            "Percentage of unimproved water service": 11.8,
+            "Percentage of surface water usage": 5.61
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 30.51,
+            "Percentage of at least basic sanitation service": 0.0,
+            "Percentage of basic sanitation service": 12.21,
+            "Percentage of limited sanitation service": 19.54,
+            "Percentage of unimproved sanitation service": 19.08,
+            "Percentage of open defecation": 18.66
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": 48.29
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": 12.5,
+            "Percentage of rivers with good ambient water quality": 15.1,
+            "Percentage of open water bodies with good ambient water quality": 7.8,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 4212.87
+        }
+    },
+    "Sierra Leone": {
+        "Region": "AFR",
+        "Income": "LIC",
+        "Environment": 40.0,
+        "Clean water and sanitation": 13.0,
+        "Environmental contamination": 15.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 10.62,
+            "Percentage of at least basic drinking water service": 0.0,
+            "Percentage of basic water service": 53.15,
+            "Percentage of limited water service": 9.02,
+            "Percentage of unimproved water service": 15.56,
+            "Percentage of surface water usage": 11.65
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 14.05,
+            "Percentage of at least basic sanitation service": 0.0,
+            "Percentage of basic sanitation service": 2.46,
+            "Percentage of limited sanitation service": 37.92,
+            "Percentage of unimproved sanitation service": 29.18,
+            "Percentage of open defecation": 16.39
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": 8.39
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": 41.7,
+            "Percentage of rivers with good ambient water quality": 41.7,
+            "Percentage of open water bodies with good ambient water quality": -1.0,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 155.9
+        }
+    },
+    "South Africa": {
+        "Region": "AFR",
+        "Income": "MIC",
+        "Environment": 0.0,
+        "Clean water and sanitation": 9.0,
+        "Environmental contamination": 0.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 0.0,
+            "Percentage of at least basic drinking water service": 93.89,
+            "Percentage of basic water service": 0.0,
+            "Percentage of limited water service": 2.77,
+            "Percentage of unimproved water service": 1.41,
+            "Percentage of surface water usage": 1.93
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 0.0,
+            "Percentage of at least basic sanitation service": 78.47,
+            "Percentage of basic sanitation service": 0.0,
+            "Percentage of limited sanitation service": 14.76,
+            "Percentage of unimproved sanitation service": 6.54,
+            "Percentage of open defecation": 0.22
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": 61.29
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": 52.1,
+            "Percentage of rivers with good ambient water quality": 52.3,
+            "Percentage of open water bodies with good ambient water quality": 43.5,
+            "Percentage of groundwater with good ambient water quality": 74.2
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 3415.37
+        }
+    },
+    "Tanzania": {
+        "Region": "AFR",
+        "Income": "LIC",
+        "Environment": 33.0,
+        "Clean water and sanitation": 5.0,
+        "Environmental contamination": 12.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 0.0,
+            "Percentage of at least basic drinking water service": 60.72,
+            "Percentage of basic water service": 0.0,
+            "Percentage of limited water service": 11.29,
+            "Percentage of unimproved water service": 14.52,
+            "Percentage of surface water usage": 13.48
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 26.33,
+            "Percentage of at least basic sanitation service": 0.0,
+            "Percentage of basic sanitation service": 5.43,
+            "Percentage of limited sanitation service": 18.66,
+            "Percentage of unimproved sanitation service": 38.68,
+            "Percentage of open defecation": 10.89
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": -1.0
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": 85.3,
+            "Percentage of rivers with good ambient water quality": 87.0,
+            "Percentage of open water bodies with good ambient water quality": 80.0,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 55582.32
+        }
+    },
+    "Canada": {
+        "Region": "AMR",
+        "Income": "HIC",
+        "Environment": 13.0,
+        "Clean water and sanitation": 3.0,
+        "Environmental contamination": 3.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 99.04,
+            "Percentage of at least basic drinking water service": 0.0,
+            "Percentage of basic water service": 0.18,
+            "Percentage of limited water service": 0.0,
+            "Percentage of unimproved water service": 0.78,
+            "Percentage of surface water usage": 0.0
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 84.37,
+            "Percentage of at least basic sanitation service": 0.0,
+            "Percentage of basic sanitation service": 14.66,
+            "Percentage of limited sanitation service": 0.0,
+            "Percentage of unimproved sanitation service": 0.97,
+            "Percentage of open defecation": 0.0
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": 77.06
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": 82.2,
+            "Percentage of rivers with good ambient water quality": 82.2,
+            "Percentage of open water bodies with good ambient water quality": -1.0,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 698030.27
+        }
+    },
+    "United States": {
+        "Region": "AMR",
+        "Income": "HIC",
+        "Environment": 14.0,
+        "Clean water and sanitation": 5.0,
+        "Environmental contamination": 8.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 97.33,
+            "Percentage of at least basic drinking water service": 0.0,
+            "Percentage of basic water service": 2.56,
+            "Percentage of limited water service": 0.0,
+            "Percentage of unimproved water service": 0.12,
+            "Percentage of surface water usage": 0.0
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 98.26,
+            "Percentage of at least basic sanitation service": 0.0,
+            "Percentage of basic sanitation service": 1.42,
+            "Percentage of limited sanitation service": 0.0,
+            "Percentage of unimproved sanitation service": 0.32,
+            "Percentage of open defecation": 0.0
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": 91.06
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": 33.7,
+            "Percentage of rivers with good ambient water quality": 32.6,
+            "Percentage of open water bodies with good ambient water quality": 44.7,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 154786.25
+        }
+    },
+    "Afghanistan": {
+        "Region": "EMR",
+        "Income": "LIC",
+        "Environment": 16.0,
+        "Clean water and sanitation": 6.0,
+        "Environmental contamination": 19.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 27.59,
+            "Percentage of at least basic drinking water service": 0.0,
+            "Percentage of basic water service": 47.5,
+            "Percentage of limited water service": 1.45,
+            "Percentage of unimproved water service": 14.56,
+            "Percentage of surface water usage": 8.9
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 0.0,
+            "Percentage of at least basic sanitation service": 50.5,
+            "Percentage of basic sanitation service": 0.0,
+            "Percentage of limited sanitation service": 10.94,
+            "Percentage of unimproved sanitation service": 27.77,
+            "Percentage of open defecation": 10.78
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": -1.0
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": -1.0,
+            "Percentage of rivers with good ambient water quality": -1.0,
+            "Percentage of open water bodies with good ambient water quality": -1.0,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 580.46
+        }
+    },
+    "Iran": {
+        "Region": "EMR",
+        "Income": "MIC",
+        "Environment": 13.0,
+        "Clean water and sanitation": 11.0,
+        "Environmental contamination": 12.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 93.98,
+            "Percentage of at least basic drinking water service": 0.0,
+            "Percentage of basic water service": 3.5,
+            "Percentage of limited water service": 1.94,
+            "Percentage of unimproved water service": 0.51,
+            "Percentage of surface water usage": 0.07
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 0.0,
+            "Percentage of at least basic sanitation service": 90.27,
+            "Percentage of basic sanitation service": 0.0,
+            "Percentage of limited sanitation service": 9.73,
+            "Percentage of unimproved sanitation service": 0.0,
+            "Percentage of open defecation": 0.37
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": 22.07
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": -1.0,
+            "Percentage of rivers with good ambient water quality": -1.0,
+            "Percentage of open water bodies with good ambient water quality": -1.0,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 57712.02
+        }
+    },
+    "Iraq": {
+        "Region": "EMR",
+        "Income": "MIC",
+        "Environment": 27.0,
+        "Clean water and sanitation": 16.0,
+        "Environmental contamination": 8.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 59.65,
+            "Percentage of at least basic drinking water service": 0.0,
+            "Percentage of basic water service": 38.7,
+            "Percentage of limited water service": 0.89,
+            "Percentage of unimproved water service": 0.0,
+            "Percentage of surface water usage": 0.75
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 42.88,
+            "Percentage of at least basic sanitation service": 0.0,
+            "Percentage of basic sanitation service": 57.09,
+            "Percentage of limited sanitation service": 0.0,
+            "Percentage of unimproved sanitation service": 0.03,
+            "Percentage of open defecation": 0.0
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": 37.09
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": -1.0,
+            "Percentage of rivers with good ambient water quality": -1.0,
+            "Percentage of open water bodies with good ambient water quality": -1.0,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 4210.86
+        }
+    },
+    "Jordan": {
+        "Region": "EMR",
+        "Income": "MIC",
+        "Environment": 0.0,
+        "Clean water and sanitation": 6.0,
+        "Environmental contamination": 0.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 85.7,
+            "Percentage of at least basic drinking water service": 0.0,
+            "Percentage of basic water service": 13.24,
+            "Percentage of limited water service": 0.15,
+            "Percentage of unimproved water service": 0.85,
+            "Percentage of surface water usage": 0.06
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 82.27,
+            "Percentage of at least basic sanitation service": 0.0,
+            "Percentage of basic sanitation service": 14.81,
+            "Percentage of limited sanitation service": 1.66,
+            "Percentage of unimproved sanitation service": 1.15,
+            "Percentage of open defecation": 0.11
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": 82.0
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": 100.0,
+            "Percentage of rivers with good ambient water quality": 66.7,
+            "Percentage of open water bodies with good ambient water quality": 100.0,
+            "Percentage of groundwater with good ambient water quality": 100.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 446.72
+        }
+    },
+    "Libya": {
+        "Region": "EMR",
+        "Income": "MIC",
+        "Environment": 18.0,
+        "Clean water and sanitation": 9.0,
+        "Environmental contamination": 1.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 0.0,
+            "Percentage of at least basic drinking water service": 99.89,
+            "Percentage of basic water service": 0.0,
+            "Percentage of limited water service": 0.0,
+            "Percentage of unimproved water service": 0.11,
+            "Percentage of surface water usage": 0.0
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 21.62,
+            "Percentage of at least basic sanitation service": 0.0,
+            "Percentage of basic sanitation service": 70.49,
+            "Percentage of limited sanitation service": 7.15,
+            "Percentage of unimproved sanitation service": 0.0,
+            "Percentage of open defecation": 0.75
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": 16.63
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": -1.0,
+            "Percentage of rivers with good ambient water quality": -1.0,
+            "Percentage of open water bodies with good ambient water quality": -1.0,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 59.64
+        }
+    },
+    "Pakistan": {
+        "Region": "EMR",
+        "Income": "LIC",
+        "Environment": 13.0,
+        "Clean water and sanitation": 11.0,
+        "Environmental contamination": 5.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 35.84,
+            "Percentage of at least basic drinking water service": 0.0,
+            "Percentage of basic water service": 54.31,
+            "Percentage of limited water service": 3.82,
+            "Percentage of unimproved water service": 4.41,
+            "Percentage of surface water usage": 1.62
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 0.0,
+            "Percentage of at least basic sanitation service": 68.4,
+            "Percentage of basic sanitation service": 0.0,
+            "Percentage of limited sanitation service": 10.53,
+            "Percentage of unimproved sanitation service": 13.77,
+            "Percentage of open defecation": 7.3
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": -1.0
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": -1.0,
+            "Percentage of rivers with good ambient water quality": -1.0,
+            "Percentage of open water bodies with good ambient water quality": -1.0,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 2468.87
+        }
+    },
+    "Finland": {
+        "Region": "EUR",
+        "Income": "HIC",
+        "Environment": 10.0,
+        "Clean water and sanitation": 0.0,
+        "Environmental contamination": 6.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 99.64,
+            "Percentage of at least basic drinking water service": 0.0,
+            "Percentage of basic water service": 0.36,
+            "Percentage of limited water service": 0.0,
+            "Percentage of unimproved water service": 0.0,
+            "Percentage of surface water usage": 0.0
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 84.1,
+            "Percentage of at least basic sanitation service": 0.0,
+            "Percentage of basic sanitation service": 15.35,
+            "Percentage of limited sanitation service": 0.55,
+            "Percentage of unimproved sanitation service": 0.0,
+            "Percentage of open defecation": 0.0
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": 92.28
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": 96.8,
+            "Percentage of rivers with good ambient water quality": 100.0,
+            "Percentage of open water bodies with good ambient water quality": 100.0,
+            "Percentage of groundwater with good ambient water quality": 86.8
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 30116.2
+        }
+    },
+    "Sweden": {
+        "Region": "EUR",
+        "Income": "HIC",
+        "Environment": 67.0,
+        "Clean water and sanitation": 14.0,
+        "Environmental contamination": 16.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 99.75,
+            "Percentage of at least basic drinking water service": 0.0,
+            "Percentage of basic water service": 0.08,
+            "Percentage of limited water service": 0.0,
+            "Percentage of unimproved water service": 0.17,
+            "Percentage of surface water usage": 0.0
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 94.93,
+            "Percentage of at least basic sanitation service": 0.0,
+            "Percentage of basic sanitation service": 4.36,
+            "Percentage of limited sanitation service": 0.7,
+            "Percentage of unimproved sanitation service": 0.01,
+            "Percentage of open defecation": 0.0
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": 95.2
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": 48.4,
+            "Percentage of rivers with good ambient water quality": 34.6,
+            "Percentage of open water bodies with good ambient water quality": 53.0,
+            "Percentage of groundwater with good ambient water quality": 97.6
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 35683.82
+        }
+    },
+    "Tajikistan": {
+        "Region": "EUR",
+        "Income": "LIC",
+        "Environment": 29.0,
+        "Clean water and sanitation": 13.0,
+        "Environmental contamination": 11.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 55.24,
+            "Percentage of at least basic drinking water service": 0.0,
+            "Percentage of basic water service": 26.62,
+            "Percentage of limited water service": 2.57,
+            "Percentage of unimproved water service": 3.42,
+            "Percentage of surface water usage": 12.16
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 0.0,
+            "Percentage of at least basic sanitation service": 96.77,
+            "Percentage of basic sanitation service": 0.0,
+            "Percentage of limited sanitation service": 2.6,
+            "Percentage of unimproved sanitation service": 0.63,
+            "Percentage of open defecation": 0.0
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": -1.0
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": -1.0,
+            "Percentage of rivers with good ambient water quality": -1.0,
+            "Percentage of open water bodies with good ambient water quality": -1.0,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 1540.07
+        }
+    },
+    "India": {
+        "Region": "SEAR",
+        "Income": "LIC",
+        "Environment": 25.0,
+        "Clean water and sanitation": 7.0,
+        "Environmental contamination": 22.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 0.0,
+            "Percentage of at least basic drinking water service": 90.49,
+            "Percentage of basic water service": 0.0,
+            "Percentage of limited water service": 4.98,
+            "Percentage of unimproved water service": 3.96,
+            "Percentage of surface water usage": 0.56
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 45.91,
+            "Percentage of at least basic sanitation service": 0.0,
+            "Percentage of basic sanitation service": 25.36,
+            "Percentage of limited sanitation service": 12.1,
+            "Percentage of unimproved sanitation service": 1.71,
+            "Percentage of open defecation": 14.93
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": 26.56
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": -1.0,
+            "Percentage of rivers with good ambient water quality": -1.0,
+            "Percentage of open water bodies with good ambient water quality": -1.0,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 16686.13
+        }
+    },
+    "Maldives": {
+        "Region": "SEAR",
+        "Income": "MIC",
+        "Environment": 18.0,
+        "Clean water and sanitation": 10.0,
+        "Environmental contamination": 11.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 0.0,
+            "Percentage of at least basic drinking water service": 99.54,
+            "Percentage of basic water service": 0.0,
+            "Percentage of limited water service": 0.05,
+            "Percentage of unimproved water service": 0.41,
+            "Percentage of surface water usage": 0.0
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 0.0,
+            "Percentage of at least basic sanitation service": 99.16,
+            "Percentage of basic sanitation service": 0.0,
+            "Percentage of limited sanitation service": 0.3,
+            "Percentage of unimproved sanitation service": 0.55,
+            "Percentage of open defecation": 0.0
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": -1.0
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": -1.0,
+            "Percentage of rivers with good ambient water quality": -1.0,
+            "Percentage of open water bodies with good ambient water quality": -1.0,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 16.72
+        }
+    },
+    "Cambodia": {
+        "Region": "WPR",
+        "Income": "LIC",
+        "Environment": 25.0,
+        "Clean water and sanitation": 6.0,
+        "Environmental contamination": 14.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 27.76,
+            "Percentage of at least basic drinking water service": 0.0,
+            "Percentage of basic water service": 43.46,
+            "Percentage of limited water service": 13.9,
+            "Percentage of unimproved water service": 5.68,
+            "Percentage of surface water usage": 9.2
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 0.0,
+            "Percentage of at least basic sanitation service": 68.77,
+            "Percentage of basic sanitation service": 0.0,
+            "Percentage of limited sanitation service": 8.0,
+            "Percentage of unimproved sanitation service": 3.95,
+            "Percentage of open defecation": 19.28
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": -1.0
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": -1.0,
+            "Percentage of rivers with good ambient water quality": -1.0,
+            "Percentage of open water bodies with good ambient water quality": -1.0,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 1875.94
+        }
+    },
+    "Micronesia": {
+        "Region": "WPR",
+        "Income": "LIC",
+        "Environment": 0.0,
+        "Clean water and sanitation": 15.0,
+        "Environmental contamination": 0.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 0.0,
+            "Percentage of at least basic drinking water service": 88.31,
+            "Percentage of basic water service": 0.0,
+            "Percentage of limited water service": 0.0,
+            "Percentage of unimproved water service": 11.69,
+            "Percentage of surface water usage": 7.0
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 0.0,
+            "Percentage of at least basic sanitation service": 88.31,
+            "Percentage of basic sanitation service": 0.0,
+            "Percentage of limited sanitation service": 0.0,
+            "Percentage of unimproved sanitation service": 11.69,
+            "Percentage of open defecation": 9.5
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": -1.0
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": -1.0,
+            "Percentage of rivers with good ambient water quality": -1.0,
+            "Percentage of open water bodies with good ambient water quality": -1.0,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 4.16
+        }
+    },
+    "Philippine": {
+        "Region": "WPR",
+        "Income": "LIC",
+        "Environment": 13.0,
+        "Clean water and sanitation": 2.0,
+        "Environmental contamination": 7.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 47.46,
+            "Percentage of at least basic drinking water service": 0.0,
+            "Percentage of basic water service": 46.64,
+            "Percentage of limited water service": 2.86,
+            "Percentage of unimproved water service": 3.03,
+            "Percentage of surface water usage": 0.0
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 60.64,
+            "Percentage of at least basic sanitation service": 0.0,
+            "Percentage of basic sanitation service": 21.62,
+            "Percentage of limited sanitation service": 11.12,
+            "Percentage of unimproved sanitation service": 2.84,
+            "Percentage of open defecation": 3.79
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": 43.0
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": -1.0,
+            "Percentage of rivers with good ambient water quality": -1.0,
+            "Percentage of open water bodies with good ambient water quality": -1.0,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 6102.27
+        }
+    },
+    "Singapore": {
+        "Region": "WPR",
+        "Income": "HIC",
+        "Environment": 28.0,
+        "Clean water and sanitation": 15.0,
+        "Environmental contamination": 10.0,
+        "6.1.1": {
+            "Percentage of safely managed drinking water service": 100.0,
+            "Percentage of at least basic drinking water service": 0.0,
+            "Percentage of basic water service": 0.0,
+            "Percentage of limited water service": 0.0,
+            "Percentage of unimproved water service": 0.0,
+            "Percentage of surface water usage": 0.0
+        },
+        "6.2.1": {
+            "Percentage of safely managed sanitation service": 100.0,
+            "Percentage of at least basic sanitation service": 0.0,
+            "Percentage of basic sanitation service": 0.0,
+            "Percentage of limited sanitation service": 0.0,
+            "Percentage of unimproved sanitation service": 0.0,
+            "Percentage of open defecation": 0.0
+        },
+        "6.3.1": {
+            "Percentage of domestic wastewater safely treated": 100.0
+        },
+        "6.3.2": {
+            "Overall percentage of water bodies with good ambient water quality": 100.0,
+            "Percentage of rivers with good ambient water quality": -1.0,
+            "Percentage of open water bodies with good ambient water quality": 100.0,
+            "Percentage of groundwater with good ambient water quality": -1.0
+        },
+        "6.6.1": {
+            "Size of water-related ecosystems in km squared": 36.98
+        }
+    }
+}
